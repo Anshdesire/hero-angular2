@@ -1,6 +1,7 @@
 # hero-angular2
 
 
-npm install
+npm install && typings install
 
-then npm run
+
+npm run
